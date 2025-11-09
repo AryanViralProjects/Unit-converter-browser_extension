@@ -17,7 +17,7 @@ A modern, lightweight unit converter application that converts between Metric an
 
 ## Screenshots
 
-![Unit Converter Interface](img/Calculating%20Zach%20Galifianakis%20GIF%20by%20filmeditor.gif)
+![Unit Converter Interface](/Users/aryansmac/Downloads/Unit-converter/img/image.png)
 
 ## Technologies Used
 
