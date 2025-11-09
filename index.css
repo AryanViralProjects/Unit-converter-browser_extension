@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    min-width: 550px;
+}
+
+.container {
+    background-image: url("img/Calculating Zach Galifianakis GIF by filmeditor.gif");
+    background-size: cover;
+    color: white;
+    padding: 30px 10px;
+    text-align: center;
+}
+
+.container h1 {
+    margin: 0 0 30px 0;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.result-container {
+    background-color: whitesmoke;
+    padding: 40px 20px 10px 20px;
+    min-height: 400px;
+}
+
+.result-card {
+    background-color: white;
+    padding: 25px;
+    margin: 0 auto 20px auto;
+    max-width: 600px;
+    border-radius: 4px;
+    text-align: center
+}
+
+.card-title {
+    color: #1F2937;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0 0 15px 0;
+}
+
+.result-text {
+    color: #1F2937;
+    font-size: 14px;
+    margin: 0;
+    line-height: 1.6;
+}
+
+#input {
+    display: block;
+    color: white;
+    margin: 0 auto;
+    border: 2px solid #B295FF;
+    border-radius: 4px;
+    width: 117px;
+    text-align: center;
+    background-color: transparent;
+    font-size: 58px;
+    font-weight: bolder;
+    color: white;
+    padding: 8px;
+}
+
+#input::placeholder {
+    color: white;
+}
+
+/* Remove spinner arrows from number input */
+#input::-webkit-outer-spin-button,
+#input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+
+#convert-btn {
+    width: 117px;
+    padding: 10px 20px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    border-radius: 6px;
+    border: none;
+    background-color: white;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+#convert-btn:hover {
+    background-color: #f0f0f0;
+}
