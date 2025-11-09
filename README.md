@@ -17,7 +17,7 @@ A modern, lightweight unit converter application that converts between Metric an
 
 ## Screenshots
 
-![Unit Converter Interface](/Users/aryansmac/Downloads/Unit-converter/img/image.png)
+![Unit Converter Interface](img/image.png)
 
 ## Technologies Used
 
