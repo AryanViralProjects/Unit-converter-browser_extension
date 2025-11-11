@@ -15,7 +15,7 @@ A modern, lightweight unit converter application that converts between Metric an
 - 🔌 **Chrome Extension**: Available as a Chrome browser extension for quick access
 - ⚡ **Fast & Lightweight**: Built with vanilla JavaScript, no heavy frameworks
 
-## Screenshots
+## Screenshot
 
 ![Unit Converter Interface](img/image.png)
 
